@@ -1,0 +1,48 @@
+(project outline by chatgpt)
+
+UrbanNest Interiors
+
+values: 
+    Values:
+        Sustainability: UrbanNest Interiors is committed to eco-friendly and 
+                        sustainable design practices. They prioritize using 
+                        materials that are ethically sourced and 
+                        environmentally friendly.
+
+        Creativity: They believe in innovative and unique design solutions 
+                    that reflect the individuality of each client and space.
+
+        Community: UrbanNest Interiors values building strong connections 
+                   within the local community and supporting 
+                   local artisans and craftsmen.
+
+    What they would want from their website:
+
+        Portfolio Showcase: They would want a visually appealing portfolio 
+        section showcasing their previous projects. High-quality images 
+        highlighting various design styles and elements would be 
+        essential to demonstrate their expertise and creativity.
+
+        Services Offered: A clear outline of the services they offer, including 
+        interior design consultations, space planning, furniture selection, 
+        and more. They would want potential clients to understand the 
+        full range of their capabilities.
+
+        Sustainability Focus: UrbanNest Interiors would emphasize their 
+        commitment to sustainability prominently on their website. This might 
+        include information about their eco-friendly design practices, such as 
+        using recycled materials, energy-efficient solutions, and sustainable sourcing.
+
+        Client Testimonials: Testimonials from satisfied clients would be 
+        important to build trust and credibility. They would want a section 
+        dedicated to showcasing positive feedback and reviews from past clients, 
+        highlighting their successful collaborations and projects.
+
+        Blog or Resources Section: As part of their community engagement efforts,
+        they might want to include a blog or resources section on their website. 
+        Here, they could share tips on sustainable living, design trends, 
+        DIY projects, and local community events.
+
+        Contact Information and Consultation Booking: Clear contact information,
+        including a contact form or booking system for design consultations, 
+        would be essential for potential clients to reach out easily.

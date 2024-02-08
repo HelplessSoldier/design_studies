@@ -1,5 +1,17 @@
-import './Header.css';
+import "./Header.css";
 
 export default function Header() {
-  return <h1>Hi from the header comp!</h1>;
+  return (
+    <div className="headerContainer">
+      <div className="headerLogoContainer">
+        <img className="headerLogo" src="./icons/logo_path.svg" />
+        <p className="headerLogoText">UrbanNest</p>
+      </div>
+      <div className="headerNav">
+        <p>portfolio</p>
+        <p>services</p>
+        <p>about</p>
+      </div>
+    </div>
+  );
 }

@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofia&display=swap');
+
+.headerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100vw;
+  height: 13vh;
+}
+
+.headerLogoContainer {
+  display: flex;
+}
+
+.headerLogoText {
+  background-color: transparent;
+  font-family: 'Sofia', cursive;
+  font-size: 24px;
+  transform: translate(10px, 60px);
+}
+
+.headerLogo {
+  width: 89px;
+  margin-left: 13px;
+}
+
+.headerNav {
+  display: flex;
+  gap: 34px;
+  margin-right: 34px;
+}
+
+.headerNav > p {
+  font-size: 18px;
+}

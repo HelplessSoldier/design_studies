@@ -1,0 +1,19 @@
+.footerRoot {
+  background-color: var(--primary-color);
+  padding: 34px;
+  padding-left: 13vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 21px;
+}
+
+.footerTextContainer > p {
+  color: white;
+  background-color: transparent;
+}
+
+
+.footerTextContainer {
+  background-color: transparent;
+}

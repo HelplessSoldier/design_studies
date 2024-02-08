@@ -15,6 +15,7 @@
 
 .contactFormLabels > label {
   background-color: transparent;
+  font-weight: 800;
   text-align: right;
 }
 

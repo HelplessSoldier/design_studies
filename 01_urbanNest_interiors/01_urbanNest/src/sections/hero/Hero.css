@@ -1,0 +1,34 @@
+.heroContainer {
+  width: 100vw;
+  display: flex;
+  align-items: center;
+
+}
+
+.heroTextContainer {
+  width: 55vw;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.heroText {
+  width: 75%;
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+}
+
+.heroText > h1 {
+  font-size: 48px;
+}
+
+.heroText > h2 {
+  font-size: 36px;
+}
+
+.heroImage {
+  width: 45vw;
+}

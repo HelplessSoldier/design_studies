@@ -1,0 +1,38 @@
+.scaleIndicator {
+  width: 21px;
+  height: 21px;
+  border-radius: 13px;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+}
+
+@media only screen and (max-width: 639px) {
+  .scaleIndicator {
+    background-color: red;
+  }
+}
+
+@media only screen and (min-width: 640px) and (max-width: 767px) {
+  .scaleIndicator {
+    background-color: orange;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  .scaleIndicator {
+    background-color: green;
+  }
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1279px) {
+  .scaleIndicator {
+    background-color: blue;
+  }
+}
+
+@media only screen and (min-width: 1280px) {
+  .scaleIndicator {
+    background-color: purple;
+  }
+}

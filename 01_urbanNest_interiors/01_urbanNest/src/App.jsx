@@ -15,6 +15,7 @@ function App() {
       <Testimonials />
       <Contact />
       <Footer />
+      <div className='scaleIndicator'></div>
     </>
   )
 }

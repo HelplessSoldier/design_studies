@@ -1,5 +1,12 @@
+import SingleTestimonial from './SingleTestimonial';
 import './Testimonials.css';
 
 export default function Testimonials() {
-  return <h1>hi from the testimonials comp!</h1>
+  return (
+    <div className='testimonialsRoot'>
+      <SingleTestimonial />
+      <SingleTestimonial />
+      <SingleTestimonial />
+    </div>
+  )
 }

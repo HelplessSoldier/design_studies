@@ -1,7 +1,7 @@
 .servicesContainer {
   display: flex;
   justify-content: space-between;
-  width: 55vw;
+  max-width: 977px;
 }
 
 .servicesRoot {
@@ -10,4 +10,10 @@
   align-items: center;
   justify-content: center;
   height: 377px;
+}
+
+@media screen and (max-width: 1280px) {
+  .servicesContainer {
+    width: 89vw;
+  }
 }

@@ -1,9 +1,21 @@
 import './App.css'
+import Header from "./sections/header/Header.jsx";
+import Hero from "./sections/hero/Hero.jsx";
+import Services from "./sections/services/Services.jsx";
+import Testimonials from "./sections/testimonials/Testimonials.jsx";
+import Contact from "./sections/contact/Contact.jsx";
+import Footer from "./sections/footer/Footer.jsx";
 
 function App() {
-
   return (
-    <h1>UrbanNest Interiors is committed to eco-friendly and sustainable design practices.</h1>
+    <>
+      <Header />
+      <Hero />
+      <Services />
+      <Testimonials />
+      <Contact />
+      <Footer />
+    </>
   )
 }
 

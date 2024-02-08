@@ -5,15 +5,17 @@
   gap: 13px;
 }
 
-/* Small devices such as large phones (640px and up) */
-@media only screen and (min-width: 40em) {}
+@media only screen and (max-width: 639px) {
+}
 
-/* Medium devices such as tablets (768px and up) */
-@media only screen and (min-width: 48em) {}
+@media only screen and (min-width: 640px) and (max-width: 767px) {
+}
 
-/* Large devices such as laptops (1024px and up) */
-@media only screen and (min-width: 64em) {}
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+}
 
-/* Largest devices such as desktops (1280px and up) */
-@media only screen and (min-width: 80em) {}
+@media only screen and (min-width: 1024px) and (max-width: 1279px) {
+}
 
+@media only screen and (min-width: 1280px) {
+}

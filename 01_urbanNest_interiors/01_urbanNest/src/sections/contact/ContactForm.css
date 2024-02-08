@@ -1,0 +1,34 @@
+.contactFormRoot {
+  background-color: var(--accent-color);
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+  justify-content: center;
+  align-items: center;
+}
+
+.contactFormLabels {
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+}
+
+.contactFormLabels > label {
+  background-color: transparent;
+  text-align: right;
+}
+
+.contactFormInputs{
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+}
+
+.contactFormInputs > input {
+  width: 21vw;
+}
+
+.contactFormLabels > label,
+.contactFormInputs > input {
+  margin-top: 21px;
+}

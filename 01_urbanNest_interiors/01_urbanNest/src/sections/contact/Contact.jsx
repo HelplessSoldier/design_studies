@@ -4,7 +4,7 @@ import ContactForm from "./ContactForm";
 export default function Contact() {
   return (
     <div className="contactRoot">
-      <h1>
+      <h1 className="contactText">
         Ready to take the first step towards transforming your space with
         UrbanNest Interiors? We're here to turn your design dreams into reality.
         Contact us today to schedule a consultation or inquire about our

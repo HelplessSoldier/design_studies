@@ -13,7 +13,9 @@ export default function Services() {
         />
         <SingleService
           serviceName={"Space Planning"}
-          serviceDescription={"Optimize your layout for functionality and flow."}
+          serviceDescription={
+            "Optimize your layout for functionality and flow."
+          }
         />
         <SingleService
           serviceName={"Furniture Selection"}

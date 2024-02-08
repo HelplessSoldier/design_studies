@@ -1,1 +1,18 @@
+.contactRoot {
+  background-color: var(--accent-color);
+  height: 610px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 144px;
+}
 
+.contactText {
+  background-color: transparent;
+  padding-left: 13vw;
+  padding-right: 13vw;
+  font-size: 1.8vw;
+  display: flex;
+  line-height: 2vw;
+  align-items: center;
+  justify-content: center;
+}

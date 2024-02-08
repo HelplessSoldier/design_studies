@@ -1,0 +1,13 @@
+.servicesContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 55vw;
+}
+
+.servicesRoot {
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 377px;
+}

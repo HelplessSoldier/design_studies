@@ -1,0 +1,9 @@
+* {
+  --background-color: #0c0c0c;
+  --text-color: #eee9e5;
+  color: var(--text-color);
+  background-color: var(--background-color);
+  min-width: 0;
+  margin: 0;
+  padding: 0;
+}

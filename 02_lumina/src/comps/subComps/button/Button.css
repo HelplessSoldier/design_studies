@@ -1,0 +1,8 @@
+.button1 {
+  align-self: flex-start;
+  padding: 2vh;
+  border: 1px solid white;
+  border-radius: 3vh;
+  margin-top: 5vh;
+  background-color: transparent;
+}

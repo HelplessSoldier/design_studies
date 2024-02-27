@@ -1,0 +1,17 @@
+.headerContainer {
+  height: 8vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.headerContainer > a {
+  margin-left: 1vw;
+  margin-right: 1vw;
+}
+
+.headerContainer > a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}

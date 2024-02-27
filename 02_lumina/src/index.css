@@ -7,3 +7,12 @@
   margin: 0;
   padding: 0;
 }
+
+h1 {
+  font-size: 8vh;
+  font-weight: 200;
+}
+
+p {
+  line-height: 3vh;
+}

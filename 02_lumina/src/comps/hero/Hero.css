@@ -1,0 +1,24 @@
+.heroRoot {
+  height: 82vh;
+  background-image: url("./lumina_hero.webp");
+}
+
+.heroTextContainer {
+  height: 100%;
+  width: 34vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 5vw;
+  background-color: transparent;
+}
+
+.heroTextContainer > p {
+  width: 55%;
+  margin-top: 5vh;
+  background-color: transparent;
+}
+
+.heroTextContainer > h1 {
+  background-color: transparent;
+}

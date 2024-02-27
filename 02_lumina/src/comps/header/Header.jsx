@@ -1,5 +1,12 @@
 import './Header.css';
 
 export default function Header() {
-  return <h1>Hi from the header comp!</h1>
+  return (
+    <div className='headerContainer'>
+      <a>About</a>
+      <a>Explore</a>
+      <a>Store</a>
+      <a>Commission</a>
+    </div>
+  )
 }

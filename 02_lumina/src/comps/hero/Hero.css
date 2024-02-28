@@ -1,6 +1,7 @@
 .heroRoot {
   height: 82vh;
   background-image: url("./lumina_hero.webp");
+  background-position: center top;
 }
 
 .heroTextContainer {

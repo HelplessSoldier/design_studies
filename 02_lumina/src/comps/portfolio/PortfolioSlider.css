@@ -1,0 +1,21 @@
+.portfolioRoot {
+  padding-left: 5vw;
+  padding-bottom: 5vh;
+}
+
+.portfolioRoot > h2 {
+  margin-top: 5vh;
+  margin-bottom: 1vh;
+}
+
+.portfolioImagesContainer {
+  width: 90vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.portfolioImagesContainer > img {
+  height: 34vh;
+  border-radius: 10%;
+}

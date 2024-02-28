@@ -5,4 +5,15 @@
   border-radius: 3vh;
   margin-top: 5vh;
   background-color: transparent;
+  transition: box-shadow .34s ease, color .13s ease, background-color .13s ease;
+}
+
+.button1:hover {
+  box-shadow: 0px 0px 5px 5px #fff;
+  cursor: pointer;
+}
+
+.button1:active {
+  color: black;
+  background-color: white;
 }
